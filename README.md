@@ -11,7 +11,7 @@ For more info, you can read [My Curriculum Vitae](https://drive.google.com/file/
 
 - <b>Data Structures and Algorithms Practice </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b> Machine Learning (PyTorch, SciKit Learn, TensorFlow and Machine Learning Python Components)</b>
+- <b> Machine Learning (PyTorch, SciKit Learn, TensorFlow)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Group Project)</b></i>
 - <b>Data Science</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
