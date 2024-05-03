@@ -2,8 +2,8 @@
 
 
 <h2>About me</h2>
-Born in 1994, 
 
+Born in 1994, I obtained a first degree in Chemistry at La Sapienza University of Rome and a second degree in Physical Chemistry at the University of Pisa. Then, I studied at UC Berkeley and enrolled in the Master's Degree program in Molecular Science and Software Engineering. I worked as a laboratory assistant and a chemical consultant. The first part of my research was on experimental chemistry, but in recent years, I have dedicated my time to studying computational chemistry and machine learning.
 For more info, you can read [My Curriculum Vitae](https://github.com/joshmadakor1/Algorithms-Practice).
 
 
