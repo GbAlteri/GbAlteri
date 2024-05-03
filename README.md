@@ -1,5 +1,5 @@
 <h1>Giovanni Battista Alteri <br/> :test_tube: Chemist</a>, :computer: Programmer</a></h1>
-<h2> Software Development Projects:</h2>
+<h2> Software Development Projects <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
