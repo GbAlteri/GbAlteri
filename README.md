@@ -24,6 +24,8 @@ For more info, you can read [My Curriculum Vitae](https://github.com/joshmadakor
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python Projects</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Code Optimization</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> :envelope: Contact: </h2>
 <font size = "7"> gb_alteri@berkeley.edu </font>
