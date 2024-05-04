@@ -13,6 +13,10 @@ For more info, you can read [My Curriculum Vitae](https://drive.google.com/file/
   - [Change this](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b> Machine Learning (PyTorch, SciKit Learn, TensorFlow)</b>
   - [Change this](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Change this](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Change this](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Change this](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+
 - <b>Data Science</b>
   - [Amazon Reviews Sentiment Analysis](https://github.com/GbAlteri/Amazon-Reviews-Sentiment-Analysis) <b><i>(Group Project)</b></i>
 
@@ -21,6 +25,8 @@ For more info, you can read [My Curriculum Vitae](https://drive.google.com/file/
   - [Change this](https://github.com/joshmadakor1/DecrypterPOC)
 - <b>Python Projects</b>
   - [Change this](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Change this](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+
 - <b>Code Optimization</b>
   - [OpenMP applied to a particle simulation](https://drive.google.com/file/d/1Myx0EVXtgj-_9YpT8vfGt01sz1xq69-F/view?usp=drive_link) <b><i>(Group Project)</b></i>
   - [MPI applied to a particle simulation](https://drive.google.com/file/d/1xIlFXhl4F1ZKbZAGSZiUs8sDBatTyzPV/view?usp=sharing) <b><i>(Group Project)</b></i>
