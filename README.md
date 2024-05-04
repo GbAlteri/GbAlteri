@@ -26,7 +26,6 @@ For more info, you can read [My Curriculum Vitae](https://drive.google.com/file/
   
 - <b>Python Projects</b>
   - [Harmonic Oscillator Python Class](https://github.com/GbAlteri/Harmonic-Oscillator-Python-Class)
-  - [Change this](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
 - <b>Code Optimization</b>
   - [OpenMP applied to a particle simulation](https://drive.google.com/file/d/1Myx0EVXtgj-_9YpT8vfGt01sz1xq69-F/view?usp=drive_link) <b><i>(Group Project)</b></i>
