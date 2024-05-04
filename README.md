@@ -19,7 +19,6 @@ For more info, you can read [My Curriculum Vitae](https://drive.google.com/file/
 - <b>C++ (Scientific Applications)</b>
   - [CNDO/2 implementation](https://github.com/GbAlteri/CHEM279-HW5/tree/main)
   - [Change this](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Change this](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python Projects</b>
   - [Change this](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Code Optimization</b>
