@@ -20,7 +20,7 @@ For more info, you can read [My Curriculum Vitae](https://drive.google.com/file/
 - <b>Data Science</b>
   - [Amazon Reviews Sentiment Analysis](https://github.com/GbAlteri/Amazon-Reviews-Sentiment-Analysis) <b><i>(Group Project)</b></i>
 
-- <b>C++ (Scientific Applications)</b>
+- <b>C++ Projects</b>
   - [CNDO/2 implementation](https://github.com/GbAlteri/CHEM279-HW5/tree/main)
   - [Change this](https://github.com/joshmadakor1/DecrypterPOC) <b><i>(Group Project)</b></i>
 - <b>Python Projects</b>
