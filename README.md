@@ -25,6 +25,9 @@ For more info, you can read [My Curriculum Vitae](https://drive.google.com/file/
 - <b>Code Optimization</b>
   - [OpenMP applied to a particle simulation](https://drive.google.com/file/d/1Myx0EVXtgj-_9YpT8vfGt01sz1xq69-F/view?usp=drive_link) <b><i>(Group Project)</b></i>
   - [MPI applied to a particle simulation](https://drive.google.com/file/d/1xIlFXhl4F1ZKbZAGSZiUs8sDBatTyzPV/view?usp=sharing) <b><i>(Group Project)</b></i>
+  - [Nvidia CUDA applied to a particle simulation](https://drive.google.com/file/d/17rM0-eGlJdpFzbIJ-i9g8Qd9UMMTwkzp/view?usp=sharing) <b><i>(Group Project)</b></i>
+
+
 
 <h2> :envelope: Contact: </h2>
 <font size = "7"> gb_alteri@berkeley.edu </font>
