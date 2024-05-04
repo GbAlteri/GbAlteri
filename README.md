@@ -9,14 +9,8 @@ For more info, you can read [My Curriculum Vitae](https://drive.google.com/file/
 
 <h2> Software Development Projects <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </h2>
 
-- <b>Data Structures and Algorithms Practice </b>
-  - [Change this](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b> Machine Learning (PyTorch, SciKit Learn, TensorFlow)</b>
-  - [Change this](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-  - [Change this](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-  - [Change this](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-  - [Change this](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-  - [Change this](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Genetic Algorithm](https://drive.google.com/file/d/1CXoEBt_50gIJSJ2hO1nG32PUv4dY6l5h/view?usp=sharing) 
 
 - <b>Data Science</b>
   - [Amazon Reviews Sentiment Analysis](https://github.com/GbAlteri/Amazon-Reviews-Sentiment-Analysis) <b><i>(Group Project)</b></i>
