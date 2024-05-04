@@ -23,6 +23,7 @@ For more info, you can read [My Curriculum Vitae](https://drive.google.com/file/
 - <b>C++ Projects</b>
   - [CNDO/2 implementation](https://github.com/GbAlteri/CHEM279-HW5/tree/main)
   - [Cellular Automata](git@github.com:GbAlteri/Cellular-Automata.git) <b><i>(Group Project)</b></i>
+  
 - <b>Python Projects</b>
   - [Change this](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Change this](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
