@@ -25,7 +25,7 @@ For more info, you can read [My Curriculum Vitae](https://drive.google.com/file/
   - [Cellular Automata](https://github.com/GbAlteri/Cellular-Automata) <b><i>(Group Project)</b></i>
   
 - <b>Python Projects</b>
-  - [Change this](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Harmonic Oscillator Python Class](https://github.com/GbAlteri/Harmonic-Oscillator-Python-Class)
   - [Change this](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
 - <b>Code Optimization</b>
